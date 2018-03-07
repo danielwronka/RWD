@@ -1,0 +1,66 @@
+@media screen and (max-width: 1169px) and (min-width: 992px) {
+    body {
+        color: white;
+        background-image: url(images/man-2.jpg);
+        font-family: verdana;
+        font-size: 1.5vw;
+        background-size: cover;
+        background-repeat: no-repeat;
+
+    }
+
+
+    header {
+        text-align: right;
+        position: relative;
+        margin-top: 15%;
+        margin-right: 300px;
+        
+    }
+    h1 {
+        text-align: right;
+        position: relative;
+        padding: 10px;
+    }
+
+}
+
+@media screen and (max-width: 991px) {
+    body {
+        color: white;
+        background-image: url(images/man-1.jpg);
+        font-family: verdana;
+        font-size: 2vw;
+        color: black;
+        background-size: cover;
+        background-repeat: no-repeat;
+        padding-bottom: 300px;
+      
+
+
+    }
+
+
+    header {
+
+        position:relative;
+        text-align: center;
+      
+     
+
+    }
+    h1 {
+
+        position: relative;
+        text-align: center;
+    
+      
+        
+
+    }
+
+    .container {
+        width: 100% margin: 0;
+    }
+
+}

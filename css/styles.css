@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+
+@media screen and (min-width: 1170px) {
+    body {
+        color: white;
+        background-image: url(images/man-1.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        font-family: verdana;
+        font-size: 1.5vw;
+        
+        
+
+
+
+    }
+    header{
+        position: relative;
+        margin-top: 25%;
+        padding: 20px;
+        
+    }
+  h1
+    { position: relative;
+        padding: 20px;
+        
+    }
+
+    .container {
+        width: 100% margin: 0;
+    }
+
+}
