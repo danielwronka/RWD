@@ -6,22 +6,11 @@
         font-size: 1.5vw;
         background-size: cover;
         background-repeat: no-repeat;
+		text-align: right;
+		margin: 20px;
 
     }
-
-
-    header {
-        text-align: right;
-        position: relative;
-        margin-top: 15%;
-        margin-right: 300px;
-        
-    }
-    h1 {
-        text-align: right;
-        position: relative;
-        padding: 10px;
-    }
+	
 
 }
 
@@ -35,32 +24,10 @@
         background-size: cover;
         background-repeat: no-repeat;
         padding-bottom: 300px;
+		text-align: bottom;
       
 
 
-    }
-
-
-    header {
-
-        position:relative;
-        text-align: center;
-      
-     
-
-    }
-    h1 {
-
-        position: relative;
-        text-align: center;
-    
-      
-        
-
-    }
-
-    .container {
-        width: 100% margin: 0;
     }
 
 }
